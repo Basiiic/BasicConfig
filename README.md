@@ -15,4 +15,4 @@ after launching once you can remove the -dxlevel, -w, and -h launch options.
 
 # Installation
 Click on the green code button, select download zip.
-place files into your tf/cfg folder, and you're done <3
+place the .cfg files into your tf/cfg folder, and you're done <3
