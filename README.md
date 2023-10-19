@@ -1,2 +1,2 @@
 # BasicConfig
-My TF2 Config.
+My autoexec config for Team Fortress 2, using [ComangliaComs](https://github.com/Comanglia/ComangliaComs) as a base.
