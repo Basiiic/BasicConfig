@@ -1,6 +1,9 @@
 # BasicConfig
 My autoexec config for Team Fortress 2, using [ComangliaComs](https://github.com/Comanglia/ComangliaComs) as a base.
-uses some things from other configs, such as [cfg.tf's](https://cfg.tf/) shift + number to join class and [Aar's TF2 Essentials](https://aarmastah.xyz/misc/tf2e/) for the null movement and reload action key.
+
+uses some things from other configs, such as [cfg.tf's](https://cfg.tf/) shift + number to join class 
+
+and [Aar's TF2 Essentials](https://aarmastah.xyz/misc/tf2e/) for the null movement and reload action key.
 
 # Requirements
 - [Pilso's Modern Casual Preloader](https://gamebanana.com/wips/79779)
