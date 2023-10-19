@@ -7,6 +7,7 @@ and [Aar's TF2 Essentials](https://aarmastah.xyz/misc/tf2e/) for the null moveme
 
 # Requirements
 - [Pilso's Modern Casual Preloader](https://gamebanana.com/wips/79779)
+- [tr_walkway (workshop)](https://steamcommunity.com/sharedfiles/filedetails/?id=606778917)
 
 # Launch Options
 -dxlevel 100 -w (width of your monitor) -h (height of your monitor) -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
