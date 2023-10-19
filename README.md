@@ -7,6 +7,7 @@ uses some things from other configs, such as [cfg.tf's](https://cfg.tf/) shift +
 
 # Launch Options
 -dxlevel 100 -w (width of your monitor) -h (height of your monitor) -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
+
 after launching once you can remove the -dxlevel, -w, and -h launch options.
 
 # Installation
