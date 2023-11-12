@@ -1,5 +1,5 @@
 # BasicConfig
-My autoexec config for Team Fortress 2, using [ComangliaComs](https://github.com/Comanglia/ComangliaComs) as a base.
+My autoexec config for Team Fortress 2, using [ComangliaComs](https://github.com/Comanglia/ComangliaComs) and [Shounic's Comanglia Maxframes edit](https://drive.google.com/file/d/1K3dC6b5oiXVZ_du5rkbXt1ImxMXSvYY7/view?pli=1) as a base.
 
 uses some things from other configs, such as [cfg.tf's](https://cfg.tf/) shift + number to join class 
 
