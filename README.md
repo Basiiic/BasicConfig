@@ -11,7 +11,11 @@ and [Aar's TF2 Essentials](https://aarmastah.xyz/misc/tf2e/) for the null moveme
 - [Resup vpk](https://github.com/jooonior/tf2-loadouts-script)
 
 # Launch Options
--dxlevel 100 -w (width of your monitor) -h (height of your monitor) -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
+-dxlevel 100 -w 1920 -h 1080 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
+
+or
+
+-dxlevel 81 -w 1920 -h 1080 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
 
 after launching once you can remove the -dxlevel, -w, and -h launch options. (or dont, you dont really have to)
 
