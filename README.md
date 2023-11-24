@@ -1,5 +1,5 @@
 # ![BasicConfig](https://github.com/Basiiic/BasicConfig/blob/main/logo.png)
-My autoexec config and custom folder for Team Fortress 2, using [ComangliaComs](https://github.com/Comanglia/ComangliaComs) and [Shounic's Comanglia Maxframes edit](https://drive.google.com/file/d/1K3dC6b5oiXVZ_du5rkbXt1ImxMXSvYY7/view?pli=1) as a base.
+My autoexec config and custom folder for Team Fortress 2, using [ComangliaComs](https://github.com/Comanglia/ComangliaComs) and [Comanglia's Maxframes](https://www.teamfortress.tv/25328/comanglias-config-fps-guide) as a base.
 
 # Installation
 Click on the green code button, select download zip.
@@ -15,7 +15,7 @@ after launching once you can remove the -dxlevel, -w, and -h launch options. (or
 # Credits
 
 - [ComangliaComs](https://github.com/Comanglia/ComangliaComs) - Base config used
-- [Shounic's Comanglia Maxframes edit](https://drive.google.com/file/d/1K3dC6b5oiXVZ_du5rkbXt1ImxMXSvYY7/view?pli=1) - Main gfxc.cfg config
+- [Comanglia Maxframes](https://www.teamfortress.tv/25328/comanglias-config-fps-guide) - Main graphics config
 - [No Bullet Impact](https://gamebanana.com/mods/412095) - Disables bullet impact dust without messing up footsteps
 - [Invisible Hands Redone (Casual Fix)](https://gamebanana.com/mods/466233) - Removes viewmodel arms while still keeping weapons visible, a personal favorite of mine
 - [CleanTF2Plus](https://github.com/JarateKing/CleanTF2plus) - Performance optimizations and a cleaner game
