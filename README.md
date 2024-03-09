@@ -17,7 +17,19 @@ after launching once you can remove the -dxlevel, -w, and -h launch options. (or
 - [ComangliaComs](https://github.com/Comanglia/ComangliaComs) - Base config used
 - [Comanglia Maxframes](https://www.teamfortress.tv/25328/comanglias-config-fps-guide) - Main graphics config
 - [No Bullet Impact](https://gamebanana.com/mods/412095) - Disables bullet impact dust without messing up footsteps
+- [Modern Casual Preloader](https://gamebanana.com/wips/79779) - Preloader that allows my mods to work in casual, thanks pilso and others!!!
+- [Custom Casual Lights](https://gamebanana.com/mods/468689) - Base used for the lights thing i made i think
+- [Loadout Script](https://github.com/jooonior/tf2-loadouts-script) - Resup Bind
 - [Invisible Hands Redone (Casual Fix)](https://gamebanana.com/mods/466233) - Removes viewmodel arms while still keeping weapons visible, a personal favorite of mine
 - [CleanTF2Plus](https://github.com/JarateKing/CleanTF2plus) - Performance optimizations and a cleaner game
 - [VenomCrosshairs](https://github.com/hbivnm/Venom-Crosshairs) - Crosshair script generator
 - [BasicHud](https://github.com/Basiiic/BasicHud) - My Personal Hud, Not included here for file size stuff, and keeping it updated here
+- Panic Civilian's Cache Remover - Self Explanitory
+
+# Latest Changes MM/DD/YY
+
+03/08/24
+- edited readme a teeny bit
+- added more credits for things inside here
+- removed basichud from here, just to reduce size and to avoid having to reupload it when it updates
+- updated MCP
