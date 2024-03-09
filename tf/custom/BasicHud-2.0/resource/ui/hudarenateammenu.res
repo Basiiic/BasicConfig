@@ -1,1 +1,0 @@
-#base "..\..\_zeeshud_base\ingame_popups\arena_team_selection.res"
