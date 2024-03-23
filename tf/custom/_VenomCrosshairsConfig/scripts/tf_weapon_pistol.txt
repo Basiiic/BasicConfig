@@ -79,7 +79,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/seekerOLsmallerthicker"
+				"file"		"vgui/replay/thumbnails/lapiDarkShadowDot"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

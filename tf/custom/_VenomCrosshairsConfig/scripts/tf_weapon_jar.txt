@@ -1,4 +1,4 @@
-	WeaponData
+WeaponData
 {
 	// Attributes Base.
 	"printname"			"#TF_Weapon_Jar"
@@ -71,7 +71,7 @@
 
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/crossdot"
+				"file"		"vgui/replay/thumbnails/lapiDarkShadowDot"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
