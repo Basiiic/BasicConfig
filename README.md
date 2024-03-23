@@ -19,6 +19,7 @@ after launching once you can remove the -dxlevel, -w, and -h launch options. (or
 - [No Bullet Impact](https://gamebanana.com/mods/412095) - Disables bullet impact dust without messing up footsteps
 - [Modern Casual Preloader](https://gamebanana.com/wips/79779) - Preloader that allows my mods to work in casual, thanks pilso and others!!!
 - [Custom Casual Lights](https://gamebanana.com/mods/468689) - Base used for the lights thing i made i think
+- [Mega Viewmodel Packs (Cory)](https://gamebanana.com/members/1431101) - viewmodels
 - [Loadout Script](https://github.com/jooonior/tf2-loadouts-script) - Resup Bind
 - [Invisible Hands Redone (Casual Fix)](https://gamebanana.com/mods/466233) - Removes viewmodel arms while still keeping weapons visible, a personal favorite of mine
 - [CleanTF2Plus](https://github.com/JarateKing/CleanTF2plus) - Performance optimizations and a cleaner game
@@ -27,6 +28,14 @@ after launching once you can remove the -dxlevel, -w, and -h launch options. (or
 - Panic Civilian's Cache Remover - Self Explanitory
 
 # Latest Changes MM/DD/YY
+
+03/23/24
+- mb i forgot to update this
+- added in MVP's for every class
+- added an unused folder, for mods i use but arent in my custom folder atm
+- updated recomp lods
+- updated venom crosshairs
+- some config tweaks again
 
 03/08/24
 - edited readme a teeny bit
