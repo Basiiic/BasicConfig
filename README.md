@@ -15,7 +15,8 @@ after launching once you can remove the -dxlevel, -w, and -h launch options. (or
 # Credits
 
 - [ComangliaComs](https://github.com/Comanglia/ComangliaComs) - Base config used
-- [Comanglia Maxframes](https://www.teamfortress.tv/25328/comanglias-config-fps-guide) - Main graphics config
+- [Mastercoms](https://mastercomfig.com/) - Current Main Graphics Config
+- [Comanglia Maxframes](https://www.teamfortress.tv/25328/comanglias-config-fps-guide) - Main graphics config (unused as of now)
 - [No Bullet Impact](https://gamebanana.com/mods/412095) - Disables bullet impact dust without messing up footsteps
 - [Modern Casual Preloader](https://gamebanana.com/wips/79779) - Preloader that allows my mods to work in casual, thanks pilso and others!!!
 - [Custom Casual Lights](https://gamebanana.com/mods/468689) - Base used for the lights thing i made i think
@@ -28,6 +29,14 @@ after launching once you can remove the -dxlevel, -w, and -h launch options. (or
 - Panic Civilian's Cache Remover - Self Explanitory
 
 # Latest Changes MM/DD/YY
+
+03/26/24
+- swapped to mastercoms, having better performance on there now
+- removed gfx.cfg, inside of unused folder now for archive purposes incase you want to use it instead
+- updated horsies viewmodel editor with different anims
+- updated lod recomps
+- cleaned up cfg folder and autoexec
+- added back tree sway
 
 03/23/24
 - mb i forgot to update this
