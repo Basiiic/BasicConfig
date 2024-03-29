@@ -30,6 +30,17 @@ after launching once you can remove the -dxlevel, -w, and -h launch options. (or
 
 # Latest Changes MM/DD/YY
 
+03/29/24
+- updated binds a bit, shift toggles between spray and jingle now on t, while still keeping joinclass
+- updated horsies viewmodel editor again, with different scout viewmodel animations
+- updated autoexec to enable jingles
+- updated venomcrosshairs to have a custom variant of heart2 i made, which is white with an outline
+- added a custom jingle (paper mario lucky sound)
+- added custom shotgun sounds (was mainly for testing custom sounds in casual, refer to the new SoundInstallation.txt for a tutorial i made
+- added realistic pistol reskin
+- changed up MVP's again
+- maybe something else i forgot
+
 03/26/24
 - swapped to mastercoms, having better performance on there now
 - removed gfx.cfg, inside of unused folder now for archive purposes incase you want to use it instead

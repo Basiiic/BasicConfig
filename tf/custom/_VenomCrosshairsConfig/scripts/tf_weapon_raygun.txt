@@ -75,7 +75,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/lapiDarkShadowDot"
+				"file"		"vgui/replay/thumbnails/heartOL"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

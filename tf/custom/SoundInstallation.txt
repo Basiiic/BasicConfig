@@ -1,0 +1,48 @@
+Pick the folder or the vpk. (vpk preferred in-game, folder preferred for modding)
+
+Install in custom folder.
+	Example:
+		C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom
+
+Requires Modern Casual Preloader.
+
+IMPORTANT: The !CustomSounds! folder must be installed for custom sounds to work,
+assuming you did not install the Sound Utility Script. You must manually add the sounds
+from every custom sound you have into this folder for them to work in casual.
+
+Example: Put ("precache_file"		"scripts/game_sounds_classic_m1garand.txt")
+at the top of the list in the "game_sounds_manifest.txt" within the scripts folder of
+!CustomSounds!: do this for every sound want to have in casual.
+
+//MAKING YOUR OWN SOUND SCRIPT//
+-- This part was added by me (basic) --
+Firstly, use gcfscape to extract the sound scripts you need from tf_misc_dir
+lets say you have sound replacements for a weapon, make a new folder in your custom folder formatted like this:
+MyMod/scripts/
+MyMod/sound/vo/
+(it doesnt have to specifically be called MyMod)
+inside the scripts folder make a game_sounds_NAMEHERE.txt the NAMEHERE can be whatever you choose, dont make it any of
+tf2's defaults.
+now open the game_sounds_weapons.txt and look for the sniper rifle section, lets copy all of that part and paste it
+into our game_sounds_NAMEHERE.txt 
+now go into that text file, and for every sound you are replacing, add a vo/ before the file path, it should
+look something like this:
+"Weapon_NAMEHERE"
+{
+	"channel"		"CHAN_STATIC"
+	"soundlevel"	"SNDLVL_74dB"
+	"volume"		".5"
+	"wave"		"vo/weapons/Sound.wav"
+}
+now, go to your MyMod/sound/vo/ folder, and we will treat this folder as if it were the main sound directory.
+place your weapons sound folder into here, it should have the wav files inside of that folder, it should look like this:
+MyMod/sound/vo/weapons/Sound.wav
+now your weapon sound will play, but we arent done yet.
+go back to your custom folder, and open the !Custom Sounds! folder.
+inside the scripts folder, open game_sounds_manifest.txt.
+inside of the brackets, add a prechache file line for your custom soundscript you made earlier, make sure it
+matches all of the other lines in the script, you should have something like this:
+	"precache_file"		"scripts/game_sounds_NAMEHERE.txt"
+after that, you should be done! your sound will work in casual!
+if you want to, pack the folder into a vpk via the vpk.exe inside of team fortress 2/bin folder or use
+crowbar to pack it into vpk instead, to decrease load times
