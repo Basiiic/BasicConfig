@@ -3,8 +3,11 @@ My graphics config for Team Fortress 2, using [Mastercoms](https://mastercomfig.
 
 # Installation
 Click on the green code button, select download zip.
+
 extract the tf folder to your tf2 install.
-next go to your game properties and set these launch options
+
+# Launch Options
+
 -dxlevel 90 -w 1920 -h 1080 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
 
 # Credits
