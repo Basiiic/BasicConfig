@@ -1,7 +1,9 @@
 game_sounds_manifest
 {
-	"precache_file"		"scripts/game_sounds_bf4shotgun.txt"
-	"precache_file"		"scripts/game_sounds_realistic_pistol.txt"
+	"precache_file"		"scripts/game_sounds_scoutrifle.txt"
+	"precache_file"		"scripts/game_sounds_pumpsg.txt"
+	"precache_file"		"scripts/game_sounds_mariocrit.txt"
+	"precache_file"		"scripts/game_sounds_p08.txt"
 	"precache_file"		"scripts/game_sounds.txt"
 	"precache_file"  	"scripts/game_sounds_physics.txt"
 	"precache_file"  	"scripts/game_sounds_weapons.txt"

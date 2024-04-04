@@ -1,0 +1,48 @@
+// ------------------------------------------------------------------------------------ //
+// MARIO RPG CRITS
+// ------------------------------------------------------------------------------------ //
+"TFPlayer.CritPain"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"95,105"
+	
+	"rndwave"
+	{
+		"wave"		"vo/player/crit_received1.wav"
+		"wave"		"vo/player/crit_received2.wav"
+		"wave"		"vo/player/crit_received3.wav"
+
+	}
+}
+
+"TFPlayer.CritHit"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1"
+	"soundlevel"  	"SNDLVL_85dB"
+	"rndwave"
+	{
+		"wave"		"vo/player/crit_hit.wav"
+		"wave"		"vo/player/crit_hit2.wav"
+		"wave"		"vo/player/crit_hit3.wav"
+		"wave"		"vo/player/crit_hit4.wav"
+		"wave"		"vo/player/crit_hit5.wav"
+	}
+}
+
+"TFPlayer.CritHitMini"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1"
+	"soundlevel"  	"SNDLVL_85dB"
+	"rndwave"
+	{
+		"wave"		"vo/player/crit_hit_mini.wav"
+		"wave"		"vo/player/crit_hit_mini2.wav"
+		"wave"		"vo/player/crit_hit_mini3.wav"
+		"wave"		"vo/player/crit_hit_mini4.wav"
+		"wave"		"vo/player/crit_hit_mini5.wav"
+	}
+}

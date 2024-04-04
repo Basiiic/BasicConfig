@@ -30,6 +30,12 @@ after launching once you can remove the -dxlevel, -w, and -h launch options. (or
 
 # Latest Changes MM/DD/YY
 
+04/04/24
+- Medic binds
+- MVP's again again
+- minor changes to configs
+- some custom weapons and stuff
+
 03/29/24
 - updated binds a bit, shift toggles between spray and jingle now on t, while still keeping joinclass
 - updated horsies viewmodel editor again, with different scout viewmodel animations
