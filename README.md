@@ -1,70 +1,23 @@
 # ![BasicConfig](https://github.com/Basiiic/BasicConfig/blob/main/logo.png)
-My autoexec config and custom folder for Team Fortress 2, using [ComangliaComs](https://github.com/Comanglia/ComangliaComs) and [Comanglia's Maxframes](https://www.teamfortress.tv/25328/comanglias-config-fps-guide) as a base.
+My graphics config for Team Fortress 2, using [Mastercoms](https://mastercomfig.com/) and [ComangliaComs](https://github.com/Comanglia/ComangliaComs) as a base.
 
 # Installation
 Click on the green code button, select download zip.
 extract the tf folder to your tf2 install.
 next go to your game properties and set these launch options
-
--dxlevel 100 -w 1920 -h 1080 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
-or
--dxlevel 81 -w 1920 -h 1080 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
-
-after launching once you can remove the -dxlevel, -w, and -h launch options. (or dont, you dont really have to)
+-dxlevel 90 -w 1920 -h 1080 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
 
 # Credits
 
 - [ComangliaComs](https://github.com/Comanglia/ComangliaComs) - Base config used
 - [Mastercoms](https://mastercomfig.com/) - Current Main Graphics Config
-- [Comanglia Maxframes](https://www.teamfortress.tv/25328/comanglias-config-fps-guide) - Main graphics config (unused as of now)
-- [No Bullet Impact](https://gamebanana.com/mods/412095) - Disables bullet impact dust without messing up footsteps
 - [Modern Casual Preloader](https://gamebanana.com/wips/79779) - Preloader that allows my mods to work in casual, thanks pilso and others!!!
-- [Custom Casual Lights](https://gamebanana.com/mods/468689) - Base used for the lights thing i made i think
-- [Mega Viewmodel Packs (Cory)](https://gamebanana.com/members/1431101) - viewmodels
 - [Loadout Script](https://github.com/jooonior/tf2-loadouts-script) - Resup Bind
-- [Invisible Hands Redone (Casual Fix)](https://gamebanana.com/mods/466233) - Removes viewmodel arms while still keeping weapons visible, a personal favorite of mine
-- [CleanTF2Plus](https://github.com/JarateKing/CleanTF2plus) - Performance optimizations and a cleaner game
 - [VenomCrosshairs](https://github.com/hbivnm/Venom-Crosshairs) - Crosshair script generator
-- [BasicHud](https://github.com/Basiiic/BasicHud) - My Personal Hud, Not included here for file size stuff, and keeping it updated here
 - Panic Civilian's Cache Remover - Self Explanitory
 
 # Latest Changes MM/DD/YY
 
 04/04/24
 - Medic binds
-- MVP's again again
-- minor changes to configs
-- some custom weapons and stuff
-
-03/29/24
-- updated binds a bit, shift toggles between spray and jingle now on t, while still keeping joinclass
-- updated horsies viewmodel editor again, with different scout viewmodel animations
-- updated autoexec to enable jingles
-- updated venomcrosshairs to have a custom variant of heart2 i made, which is white with an outline
-- added a custom jingle (paper mario lucky sound)
-- added custom shotgun sounds (was mainly for testing custom sounds in casual, refer to the new SoundInstallation.txt for a tutorial i made
-- added realistic pistol reskin
-- changed up MVP's again
-- maybe something else i forgot
-
-03/26/24
-- swapped to mastercoms, having better performance on there now
-- removed gfx.cfg, inside of unused folder now for archive purposes incase you want to use it instead
-- updated horsies viewmodel editor with different anims
-- updated lod recomps
-- cleaned up cfg folder and autoexec
-- added back tree sway
-
-03/23/24
-- mb i forgot to update this
-- added in MVP's for every class
-- added an unused folder, for mods i use but arent in my custom folder atm
-- updated recomp lods
-- updated venom crosshairs
-- some config tweaks again
-
-03/08/24
-- edited readme a teeny bit
-- added more credits for things inside here
-- removed basichud from here, just to reduce size and to avoid having to reupload it when it updates
-- updated MCP
+- Cleaned up everything, config only.
