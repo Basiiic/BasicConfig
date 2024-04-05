@@ -20,6 +20,8 @@ extract the tf folder to your tf2 install.
 - Panic Civilian's Cache Remover - Self Explanitory
 
 # Latest Changes MM/DD/YY
+04/05/24
+- Removed callouts fom the med binds
 
 04/04/24
 - Medic binds
