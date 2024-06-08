@@ -7,7 +7,8 @@ My graphics config for Team Fortress 2, using [Mastercoms](https://mastercomfig.
 - resup bind
 - null movement script
 - my specific sensitivity for all classes, intended dpi 800.
-- 
+- preloader vscript
+- my crosshair and hit/killsounds
 
 # Installation
 Click on the green code button, select download zip.
