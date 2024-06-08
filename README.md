@@ -16,7 +16,7 @@ Click on the green code button, select download zip.
 extract the tf folder to your tf2 install.
 
 # Launch Options
--w 1920 -h 1080 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -vulkan
+-w 1920 -h 1080 -windowed -noborder -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -vulkan
 
 # Credits
 
