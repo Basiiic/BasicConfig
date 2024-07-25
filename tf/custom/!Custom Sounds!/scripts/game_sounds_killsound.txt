@@ -1,0 +1,18 @@
+// ------------------------------------------------------------------------------------ //
+//  Weapon Kill (Ding a lings)
+// ------------------------------------------------------------------------------------ //
+
+"Player.KillSoundDefaultDing"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"  	"SNDLVL_NONE"	
+	"pitch"			"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"	"ui/killsound1.wav"
+		"wave"	"ui/killsound2.wav"
+		"wave"	"ui/killsound3.wav"	
+	}
+}
